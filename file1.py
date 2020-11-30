@@ -1,0 +1,1 @@
+print("merhaba bu 1. satır")
